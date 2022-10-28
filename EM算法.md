@@ -94,5 +94,4 @@ $X_i | Z_i=1 \sim N(\mu_1,\Sigma_1),X_i | Z_i=2 \sim N(\mu_2,\Sigma_2)$
 
 EM算法怎么用到图像处理，还有 HMM 算法。
 
-## 实例2（抛硬币）
 
